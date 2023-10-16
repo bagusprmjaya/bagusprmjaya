@@ -14,7 +14,7 @@ In this GitHub profile, you'll discover a collection of projects, code snippets,
 
 | Name | Stars | Issues | Merge Requests | Description |
 | ---- | ----- | ------ | -------------- | ------- |
-|[SplitBun](https://github.com/farisphp/splitbun) |![Stars](https://img.shields.io/github/stars/farisphp/splitbun?style=social) | [![Issues](https://img.shields.io/github/issues/farisphp/splitbun?label=%22%22)](https://github.com/natserract/use-recursive-fetch-paginate/issues) | [![PRs](https://img.shields.io/github/issues-pr/farisphp/splitbun?label=%22%22)](https://github.com/farisphp/splitbun/pulls) | ightweight JavaScript library that allows you to split text elements into individual lines, words, or characters with ease. 
+|[SplitBun](https://github.com/farisphp/splitbun) |![Stars](https://img.shields.io/github/stars/farisphp/splitbun?style=social) | [![Issues](https://img.shields.io/github/issues/farisphp/splitbun?label=%22%22)](https://github.com/natserract/use-recursive-fetch-paginate/issues) | [![PRs](https://img.shields.io/github/issues-pr/farisphp/splitbun?label=%22%22)](https://github.com/farisphp/splitbun/pulls) | Lightweight JavaScript library that allows you to split text elements into individual lines, words, or characters with ease. 
 
 For an overview of the stuff I worked on, see the Pinned section below. 👇
 
