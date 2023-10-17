@@ -1,15 +1,5 @@
 Hello there! I'm [Bagus Pramajaya](https://baguspramajaya.com), a passionate front-end developer with a focus on Vue.js and React.js. I'm thrilled to have you here on my GitHub profile. As a web enthusiast, I love creating interactive and engaging web applications that bring ideas to life. This repository showcases my journey through the world of front-end development, and I hope you find it informative and inspiring.
 
-### What You'll Find Here
-
-In this GitHub profile, you'll discover a collection of projects, code snippets, and resources related to front-end development, with an emphasis on Vue.js and React.js. My work spans a variety of areas, including:
-
-- **Vue.js Projects**: I've created a series of web applications and components using Vue.js. You can explore these projects to get a sense of my expertise with this popular JavaScript framework.
-
-- **React.js Creations**: If you're a fan of React, you're in the right place. I've developed numerous React-based applications, and you can dive into the code to see how I approach building dynamic user interfaces.
-
-- **Code Samples**: I've shared code snippets and examples to help you learn and implement specific front-end features and functionalities.
-
 ### Products
 
 | Name | Stars | Issues | Merge Requests | Description |
