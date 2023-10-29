@@ -4,7 +4,7 @@ Hello there! I'm [Bagus Pramajaya](https://baguspramajaya.com), a front-end deve
 
 | Name | Stars | Issues | Merge Requests | Description |
 | ---- | ----- | ------ | -------------- | ------- |
-|[SplitBun](https://github.com/farisphp/splitbun) |![Stars](https://img.shields.io/github/stars/farisphp/splitbun?style=social) | [![Issues](https://img.shields.io/github/issues/farisphp/splitbun?label=%22%22)](https://github.com/natserract/use-recursive-fetch-paginate/issues) | [![PRs](https://img.shields.io/github/issues-pr/farisphp/splitbun?label=%22%22)](https://github.com/farisphp/splitbun/pulls) | Lightweight JavaScript library that allows you to split text elements into individual lines, words, or characters. 
+|[SplitBun](https://github.com/farisphp/splitbun) |![Stars](https://img.shields.io/github/stars/farisphp/splitbun?style=social) | [![Issues](https://img.shields.io/github/issues/farisphp/splitbun?label=%22%22)](https://github.com/farisphp/splitbun/issues) | [![PRs](https://img.shields.io/github/issues-pr/farisphp/splitbun?label=%22%22)](https://github.com/farisphp/splitbun/pulls) | Lightweight JavaScript library that allows you to split text elements into individual lines, words, or characters. 
 
 ## Connect with Me
 
