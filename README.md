@@ -1,4 +1,4 @@
-Hello there! I'm [Bagus Pramajaya](https://baguspramajaya.com), a front-end developer passionate about Vue.js and React.js. Welcome to my GitHub profile, where you'll discover my 'Life Notes' in the world of programming. This repository is a compilation of my experiences, insights, and learnings on this incredible journey, and I hope you find it both informative and inspiring.
+Hello there! I'm [Bagus Pramajaya](https://www.baguspramajaya.com), a front-end developer passionate about Vue.js and React.js. Welcome to my GitHub profile, where you'll discover my 'Life Notes' in the world of programming. This repository is a compilation of my experiences, insights, and learnings on this incredible journey, and I hope you find it both informative and inspiring.
 
 ## Products
 
