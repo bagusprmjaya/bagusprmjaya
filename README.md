@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm [Bagus Pramajaya](https://www.baguspramajaya.com), — a front-end developer who loves working with Javascript
+I'm [Bagus Pramajaya](https://www.baguspramajaya.com), — a front-end developer who loves working with Javascript.
 Welcome to my GitHub! This repo is like my "Life Notes" in code — a collection of things I’ve learned, tried, and figured out along the way.
 
 ## Packages
